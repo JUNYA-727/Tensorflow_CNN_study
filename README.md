@@ -1,0 +1,5 @@
+#tensorflowでの画像認識等の学習
+tensorflow_CNN→ニューラルネットワークの構築､callbackを用いた方法､畳み込みニューラルでの学習､ImageDataGeneratorの使用
+tensorflow2→ImageDataGeneratorを使用して学習データを増やして学習
+tensorflow3→転移学習(InceptionV3を用いる)での精度向上
+tensorflow4→　転移学習での多クラス分類
